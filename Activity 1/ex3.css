@@ -1,0 +1,103 @@
+*{
+	box-sizing:border-box;
+}
+.container{
+	display:flex;
+	justify-content:space-between;
+	margin:10px;
+	padding:30px;
+}
+ul{
+	list-style:none;
+}
+li{
+	display:inline;
+	margin:10px;
+	padding:10px;
+	margin-right:20px;
+}
+a{
+	text-decoration:none;
+	color:white;
+}
+.item1{
+	color:orange;
+}
+
+	
+.serach{
+	border:10px solid orange;
+}
+	
+.search button{
+	background-color:orange;
+	padding:10px;
+	margin:10px;
+	cursor:pointer;
+}
+.search input{
+	background:transparent;
+	color:white;
+	padding:10px;
+	margin:10px;
+	border:1px solid orange;
+}
+*{
+	box-sizing:border-box;
+}
+.box{
+	display:flex;
+	margin:20px;
+	padding:20px;
+	justify-content:space-between;
+	gap:20px;
+	
+}
+.box1{
+	color:white;
+	font-size:25px;
+}
+p{
+	color:white;
+	font-size:15px;
+}
+.btn{
+	border-radius:10px;
+	padding:10px 15px;
+	background-color:orange;
+	color:white;
+}
+.login{
+	margin-left:500px;
+	padding:40px 20px;
+    
+	background-color:black;
+	
+}
+.login h2{
+	background-color:white;
+	color:orange;
+	text-align:center;
+	font-family:arial;
+}
+.login input{
+	height:30px;
+}
+.Login{
+	padding:10px 68px;
+	color:white;
+	background-color:orange;
+}
+.login p{
+	text-align:center;
+}
+.login a{
+	color:orange;
+	text-align:center;
+}
+.login input{
+	background:transparent;
+}
+.orange{
+	color:orange;
+}
